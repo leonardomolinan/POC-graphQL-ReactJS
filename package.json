@@ -1,0 +1,23 @@
+{
+  "name": "pocgraphqlreactjs",
+  "version": "1.0.0",
+  "description": "POC to understand the usage of GraphQL with ReactJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardomolinan/POC-graphQL-ReactJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardomolinan/POC-graphQL-ReactJS/issues"
+  },
+  "homepage": "https://github.com/leonardomolinan/POC-graphQL-ReactJS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
